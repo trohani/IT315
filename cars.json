@@ -1,13 +1,13 @@
 {
   "CarReviewList":
   [
-    {"CarReviewperson":"Jason P.","CarReviewStars":"4.5","CarID":1,"CarReview":"The Mustang offers a compelling mix of image style performance and driver satisfaction."}
-    {"CarReviewperson":"Mary D.","CarReviewStars":"4","CarID":1,"CarReview":"When someone buys a Mustang, in coupe or convertible form, they’re participating in a heritage while also driving the name into a thrilling future. The Mustang feels...more"}
+    {"CarReviewperson":"Jason P.","CarReviewStars":"4.5","CarID":1,"CarReview":"The Mustang offers a compelling mix of image style performance and driver satisfaction."},
+    {"CarReviewperson":"Mary D.","CarReviewStars":"4","CarID":1,"CarReview":"When someone buys a Mustang, in coupe or convertible form, they’re participating in a heritage while also driving the name into a thrilling future. The Mustang feels...more"},
 
-    {"CarReviewperson":"Jaxon B.","CarReviewStars":"5","CarID":2,"CarReview":"The only Italian car in its class, the Alfa Romeo Giulia also stands out with its stylish design, potent performance and the fact that you just won’t...more"}
-    {"CarReviewperson":"Silly N.","CarReviewStars":"4.2","CarID":2,"CarReview":"The Alfa Romeo Giulia appeals to driving enthusiasts with its fun-to-drive chassis, sonorous powertrain, and drop-dead gorgeous styling. It's designed to take on sports sedans such as...more"} 
+    {"CarReviewperson":"Jaxon B.","CarReviewStars":"5","CarID":2,"CarReview":"The only Italian car in its class, the Alfa Romeo Giulia also stands out with its stylish design, potent performance and the fact that you just won’t...more"},
+    {"CarReviewperson":"Silly N.","CarReviewStars":"4.2","CarID":2,"CarReview":"The Alfa Romeo Giulia appeals to driving enthusiasts with its fun-to-drive chassis, sonorous powertrain, and drop-dead gorgeous styling. It's designed to take on sports sedans such as...more"},
 
-    {"CarReviewperson":"Don B.","CarReviewStars":"5","CarID":3,"CarReview":"Every time our testers spent time behind the wheel of the M440i, they came back with the same impression: This is an absolutely fantastic car. Whether it's...more"}
+    {"CarReviewperson":"Don B.","CarReviewStars":"5","CarID":3,"CarReview":"Every time our testers spent time behind the wheel of the M440i, they came back with the same impression: This is an absolutely fantastic car. Whether it's...more"},
     {"CarReviewperson":"Nancy X.","CarReviewStars":"4.2","CarID":3,"CarReview":"The 2021 BMW 4 Series is a good premium compact coupe or convertible for just about anyone looking for a small luxury car with a stylish two-door...more"} 
   ],
   "Status":"OK"
